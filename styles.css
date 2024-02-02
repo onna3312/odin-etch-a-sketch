@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 1px solid red;
+    box-sizing: border-box;
+}
+
+.grid-container {
+    display: flex;
+    max-width: 512px;
+    max-height: 512px;
+    flex-wrap: wrap;
+}
